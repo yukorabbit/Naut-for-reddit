@@ -22,3 +22,7 @@ If you have any questions on how to customize, [/r/CSSHelp](https://www.reddit.c
 
 
 ## [Click here to download](https://github.com/Axel--/Naut-for-reddit/releases/latest)
+
+Credit 
+===============
+Background: [Small Steps](https://www.toptal.com/designers/subtlepatterns/small-steps/)
